@@ -1,7 +1,13 @@
 # planes-programas-mineduc
 Planes y programas MINEDUC para usar en webs y apps
 <br>
-https://curriculumnacional.mineduc.cl/614/w3-propertyvalue-118605.html
+todos Planes y Programas: https://curriculumnacional.mineduc.cl/614/w3-propertyvalue-118605.html
 <br>
-1 Basico: https://curriculumnacional.mineduc.cl/614/w3-propertyvalue-49410.html 
+1 Basico Full: https://curriculumnacional.mineduc.cl/614/w3-propertyvalue-49410.html 
+<br>
+1 Basico Vision Global Unidades:https://curriculumnacional.mineduc.cl/614/w3-propertyvalue-49410.html#tabs_uni
+<br>
+<br>
+<br>
+<br>
 <br>
