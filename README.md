@@ -7,6 +7,7 @@ todos Planes y Programas: https://curriculumnacional.mineduc.cl/614/w3-propertyv
 <br>
 1 Basico Vision Global Unidades:https://curriculumnacional.mineduc.cl/614/w3-propertyvalue-49410.html#tabs_uni
 <br>
+1 Basico Artes Visuales: https://curriculumnacional.mineduc.cl/614/w3-article-20966.html
 <br>
 <br>
 <br>
